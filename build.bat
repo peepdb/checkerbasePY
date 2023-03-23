@@ -1,0 +1,1 @@
+py -m nuitka renamethistoyourcheckername/__main__.py --follow-imports --onefile --output-dir=dist
